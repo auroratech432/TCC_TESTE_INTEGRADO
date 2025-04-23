@@ -1,0 +1,1 @@
+// Rota IA gerar
